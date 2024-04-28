@@ -1,4 +1,4 @@
-# Simple-Linear-Regression
+# Linear Regression for two quantitative variables
 
 This is a small linear regression project created for academic purposes. 
 
